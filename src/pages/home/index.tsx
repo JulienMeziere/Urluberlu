@@ -9,7 +9,7 @@ export function Home() {
     <div className="relative flex w-full h-screen overflow-hidden cursor-none">
       <Background />
       <a
-        className="animated-2 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-[500px] max-h-[90vh]"
+        className="animated-2 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-[500px] max-h-[90svh]"
         href="https://open.spotify.com/artist/6Nok8PZpbhaySl2vhZXSui"
       >
         <img
