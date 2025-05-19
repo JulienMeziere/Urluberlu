@@ -108,7 +108,7 @@ button {
 .animated:hover, .animated-2:hover, .animated:active,
 .animated-2:active {
   animation-play-state: paused;
-  transform: scale(1.3), rotate(0deg) !important;
+  transform: scale(1.3) rotate(0deg) !important;
   opacity: 1 !important;
   filter: saturate(3) !important;
 }
